@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **various java and javascript projects.**
 
-- 🌱 I’m currently learning **DSA and SpringBoot**
+- 🌱 I’m currently learning **DSA and Spring**
 
 - 👯 I’m looking to collaborate on **open-source projects.**
 
-- 📫 How to reach me **firdous.hassan03@gmail.com**
+- 📫 Reach me at **firdous.hassan03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
