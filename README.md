@@ -22,4 +22,4 @@ dynamic tech projects.</h3>
 
 <p><br></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=firdoushassan&show_icons=true&locale=en&layout=compact" alt="firdoushassan" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firdoushassan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></p>
