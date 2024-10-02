@@ -12,8 +12,8 @@ dynamic tech projects.</h3>
 -------------------------------------------------------------------------------
 
 <h3 align="center">Connect with me </h3>
-<p align="center"><a href="https://linkedin.com/in/firdous-hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="firdous-hassan" height="40" width="50" /></a><img src = "https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png" width="20" height="20"/>
-<a href="https://discord.gg/2GDc3EmE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2GDc3EmE" height="40" width="50" /></a></p>
+<p align="center"><a href="https://linkedin.com/in/firdous-hassan" target="blank"><img align="center" src="./LinkedIn.png" alt="firdous-hassan" height="66" width="66" /></a><img src = "https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png" width="20" height="20"/>
+<a href="https://discord.gg/2GDc3EmE" target="blank"><img align="center" src="./Discord.png" alt="2GDc3EmE" height="60" width="60" /></a></p>
 
 <p><br></p>
 
