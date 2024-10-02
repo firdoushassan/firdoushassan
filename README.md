@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXV3NHVsaTNranpnZjcxc2IyM3FyNHN6OWMyY29vMnhna205eTFnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g2jj9VAIBluIreVNsb/giphy.gif" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Firdous</h1>
 <h3 align="center">A passionate and aspiring developer skilled in Java, Python and C with frontend knowledge of HTML, CSS and JS. Eager to apply acquired knowledge to
 dynamic tech projects.</h3>
