@@ -6,7 +6,9 @@
 <h3 align="center">A passionate and aspiring developer skilled in Java, Python and C with frontend knowledge of HTML, CSS and JS. Eager to apply acquired knowledge to
 dynamic tech projects.</h3>
 
-- 🔭 I’m currently working on **various Java and JavaScript projects.**
+<p><a href="https://drive.google.com/file/d/1Z5Wpyb5vRoqqEoA3PGpahX32s1lVV0qN/view" target="_blank"><img align="right" src="./Download.png" alt="resume" width="130" /></a></p>
+
+- 🔭 I’m currently working on **various Java and JavaScript projects.** 
 
 - 🌱 I’m currently learning **DSA and Spring**
 
